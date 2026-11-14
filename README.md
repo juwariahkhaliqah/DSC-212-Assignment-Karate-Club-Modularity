@@ -1,4 +1,4 @@
-Modularity on the Karate Club Graph
+# Modularity on the Karate Club Graph
 
 DSC212 – Graph Theory research assignment, Juwariah Khaliqah (IMS25101)
 
